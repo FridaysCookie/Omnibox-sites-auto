@@ -467,21 +467,6 @@
     },
     {
       "id": "",
-      "key": "🔞-幸资源-",
-      "name": "🔞-幸资源-",
-      "api": "https://xzybb2.com/api.php/provide/vod",
-      "type": 2,
-      "isActive": 1,
-      "time": "",
-      "isDefault": 0,
-      "remark": "",
-      "tags": [],
-      "priority": 0,
-      "proxyMode": "none",
-      "customProxy": ""
-    },
-    {
-      "id": "",
       "key": "🔞155-资源",
       "name": "🔞155-资源",
       "api": "https://155api.com/api.php/provide/vod",
